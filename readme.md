@@ -1,4 +1,4 @@
-# Flexi-Dent Xray Protocol Handler Proxy [RELEASES]
+# Flexi-Dent Xray Protocol Handler Proxy [RELEASE]
 
 ---
 
