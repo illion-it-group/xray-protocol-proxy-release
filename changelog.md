@@ -1,3 +1,11 @@
+## v1.0.4
+- Added a feature to set modifiers in the protocol call
+- Added a way to disable parameter check using the `disable-parameter-check` GET parameter
+- Added a way to enable API key dashing using the `dashed-api-key` GET parameter
+- Added a debug application that can run any protocol call
+
+---
+
 ## v1.0.3
 - Elevated .NET Framework version from `2.0` to `4.7.2` for parity with the Xray application
 
