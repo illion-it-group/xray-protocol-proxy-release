@@ -1,3 +1,14 @@
+## v1.0.6
+- Even less strict parameter check
+
+---
+
+## v1.0.5
+- Less strict parameter check
+- Updated installer script
+
+---
+
 ## v1.0.4
 - Added a feature to set modifiers in the protocol call
 - Added a way to disable parameter check using the `disable-parameter-check` GET parameter
